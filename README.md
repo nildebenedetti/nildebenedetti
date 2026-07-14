@@ -1,21 +1,23 @@
 # 🌸✨ Cronache Digitali dell’Eterna Romantica ✨🌸
 
-> _“In un reame di repository fioriti, ove i byte danzano come lucciole e la logica sposa l'armonia, sto tessendo il mio futuro da Full-Stack Developer.”_
+> _“In un reame di repository fioriti, ove i byte danzano come lucciole e la logica sposa l'armonia, sto tessendo il mio futuro da Full-Stack Web Developer.”_
 
 ---
 
 ## 💻 My Coding Journey @ Boolean
 Attualmente sono immersa nel **Master Full-Stack Web Development**, trasformando la mia passione per le parole in codice pulito e funzionale. Seguo un percorso intensivo di 6 mesi focalizzato sulle tecnologie più richieste dal mercato.
 
-* **Now Loading (Front-end):** 🏗️ Architetture in HTML5 & CSS3 | Layout Responsive | Logica JavaScript (ES6+).
-* **Next in my learning:** ⚛️ React & Vite | ⚡ Node.js & Express | 🗄️ MySQL & Database Relazionali.
+* **Linguaggi:** JavaScript (ES6+) | PHP (in apprendimento)
+* **Front-end:** 🏗️ Architetture in HTML5 & CSS3 | ⚛️ React & Vite | Layout Responsive & Components
+* **Backend:** ⚡ Node.js & Express | Laravel (in apprendimento)
+* **Database:** 🗄️ MySQL & Database Relazionali.
+* **& more:** Integrazione Anthropic API in Chat Widget | AI Agents
 
 
 ## 📜 Radici, Mirtilli e K-Drama
-Oltre il codice, sono una pellegrina d’etimologie e amante del bello:
+Oltre il codice, il mio cuore batte per:
 * 🔍 **Etimologia:** Rabdomante di sillabe antiche, cerco la radice di ogni parola (e di ogni errore di sintassi). Ogni vocabolo è un portale.
-* 🫐 **Nettare di Mirtillo:** Carburante regale per le mie sessioni di sviluppo, denso come tramonto in coppa di cristallo.
-* 🌸 **Passione Oriente:** Cuore rapito dai K-Drama sotto ciliegi eterni e palato fedele al cibo cinese.
+* 🌸 **Passione Oriente:** Spirito e corpo dediti all'arte del Kung Fu, cuore rapito dai K-Drama sotto ciliegi eterni e palato stregato dal cibo cinese.
 
 ---
 
