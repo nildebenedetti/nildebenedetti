@@ -1,30 +1,36 @@
-# 🌸✨ Cronache Digitali dell’Eterna Romantica ✨🌸
+# 🌸✨ Chronicles of a Romantic Coder ✨🌸
 
-> _“In un reame di repository fioriti, ove i byte danzano come lucciole e la logica sposa l'armonia, sto tessendo il mio futuro da Full-Stack Web Developer.”_
+> *"In a realm of blooming repositories, where bytes dance like fireflies and logic walks hand in hand with harmony, I am weaving my future as a Full-Stack Web Developer."*
 
 ---
 
 ## 💻 My Coding Journey @ Boolean
-Attualmente sono immersa nel **Master Full-Stack Web Development**, trasformando la mia passione per le parole in codice pulito e funzionale. Seguo un percorso intensivo di 6 mesi focalizzato sulle tecnologie più richieste dal mercato.
 
-* **Linguaggi:** JavaScript (ES6+) | PHP (in apprendimento)
-* **Front-end:** 🏗️ Architetture in HTML5 & CSS3 | ⚛️ React & Vite | Layout Responsive & Components
-* **Backend:** ⚡ Node.js & Express | Laravel (in apprendimento)
-* **Database:** 🗄️ MySQL & Database Relazionali.
-* **& more:** Integrazione Anthropic API in Chat Widget | AI Agents
+I'm currently enrolled in an intensive **Full-Stack Web Development Master**, where I'm transforming my passion for words into clean, functional code. Over six months of hands-on learning, I'm building modern web applications with technologies widely used across the industry.
 
-
-## 📜 Beside Coding
-Oltre il codice, il mio cuore batte per:
-* 🔍 **Etimologia:** Rabdomante di sillabe antiche, cerco la radice di ogni parola (e di ogni errore di sintassi). Ogni vocabolo è un portale.
-* 🌸 **Passione Oriente:** Spirito e corpo dediti all'arte del Kung Fu, cuore rapito dai K-Drama sotto ciliegi eterni e palato stregato dal cibo cinese.
+- **Languages:** JavaScript (ES6+) | PHP (currently learning)
+- **Front-end:** 🏗️ HTML5 & CSS3 Architecture | ⚛️ React & Vite | Responsive Layouts & Component-Based Design
+- **Back-end:** ⚡ Node.js & Express | Laravel (currently learning)
+- **Database:** 🗄️ MySQL & Relational Databases
+- **& More:** Anthropic API Integration in Chat Widgets | AI Agents
 
 ---
 
-## Epilogo per Viandanti del Codice
-Se giungerai sin qui, tra una *pull request* e l'altra, sappi che troverai:
-- **Pace** coltivata con pazienza tra le righe di codice.
-- **Logica** solida avvolta in un’estetica pastello.
-- **Commit** brillanti come gemme.
+## 📜 Beyond Coding
+
+Beyond the code, my heart belongs to:
+
+- 🔍 **Etymology:** A seeker of ancient syllables, forever chasing the roots of words (and the occasional syntax error). Every language hides a story.
+- 🌸 **Eastern Culture:** A soul devoted to Kung Fu, enchanted by K-Dramas beneath everlasting cherry blossoms, and happily convinced that Chinese cuisine is pure comfort.
 
 ---
+
+## 🌿 Epilogue for Fellow Code Wanderers
+
+If your journey has led you this far, somewhere between one *pull request* and the next, I hope you'll find:
+
+- **Peace**, patiently cultivated between lines of code.
+- **Solid logic**, wrapped in a soft pastel aesthetic.
+- **Commits** polished like tiny gems.
+
+May your builds stay green and your curiosity never stop blooming. 🌸
