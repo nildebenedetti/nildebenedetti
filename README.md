@@ -14,14 +14,14 @@ Attualmente sono immersa nel **Master Full-Stack Web Development**, trasformando
 * **& more:** Integrazione Anthropic API in Chat Widget | AI Agents
 
 
-## 📜 Radici, Mirtilli e K-Drama
+## 📜 Beside Coding
 Oltre il codice, il mio cuore batte per:
 * 🔍 **Etimologia:** Rabdomante di sillabe antiche, cerco la radice di ogni parola (e di ogni errore di sintassi). Ogni vocabolo è un portale.
 * 🌸 **Passione Oriente:** Spirito e corpo dediti all'arte del Kung Fu, cuore rapito dai K-Drama sotto ciliegi eterni e palato stregato dal cibo cinese.
 
 ---
 
-## 💗 Epilogo per Viandanti del Codice
+## Epilogo per Viandanti del Codice
 Se giungerai sin qui, tra una *pull request* e l'altra, sappi che troverai:
 - **Pace** coltivata con pazienza tra le righe di codice.
 - **Logica** solida avvolta in un’estetica pastello.
