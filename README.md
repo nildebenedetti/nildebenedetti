@@ -8,9 +8,9 @@
 
 I'm currently enrolled in an intensive **Full-Stack Web Development Master**, where I'm transforming my passion for words into clean, functional code. Over six months of hands-on learning, I'm building modern web applications with technologies widely used across the industry.
 
-- **Languages:** JavaScript (ES6+) | PHP (currently learning)
+- **Languages:** JavaScript (ES6+) | PHP
 - **Front-end:** 🏗️ HTML5 & CSS3 Architecture | ⚛️ React & Vite | Responsive Layouts & Component-Based Design
-- **Back-end:** ⚡ Node.js & Express | Laravel (currently learning)
+- **Back-end:** ⚡ Node.js & Express | Laravel
 - **Database:** 🗄️ MySQL & Relational Databases
 - **& More:** Anthropic API Integration in Chat Widgets | AI Agents
 
@@ -20,6 +20,7 @@ I'm currently enrolled in an intensive **Full-Stack Web Development Master**, wh
 
 Beyond the code, my heart belongs to:
 
+- 🗺️ **Languages&Cultures:** I am graduated in Linguistic and Cultural Mediation and speak English, German, Dutch and a bit of Spanish. ATM, falling in love with Hangul - 한글과 사랑에 빠지는 중 💙
 - 🔍 **Etymology:** A seeker of ancient syllables, forever chasing the roots of words (and the occasional syntax error). Every language hides a story.
 - 🌸 **Eastern Culture:** A soul devoted to Kung Fu, enchanted by K-Dramas beneath everlasting cherry blossoms, and happily convinced that Chinese cuisine is pure comfort.
 
