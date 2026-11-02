@@ -4,13 +4,17 @@
 
 ---
 
-## 💻 My Coding Journey @ Boolean
+## 💻 My Coding Journey
 
-I'm currently enrolled in an intensive **Full-Stack Web Development Master**, where I'm transforming my passion for words into clean, functional code. Over six months of hands-on learning, I'm building modern web applications with technologies widely used across the industry.
+I view code as a tool for **conceptual architecture** and **exact creativity**. What I value in languages like PHP and JavaScript is the freedom to design a system's internal logic from scratch, defining with rigor how data should flow. 
 
-- **Languages:** JavaScript (ES6+) | PHP
+I find particular satisfaction in **database modeling and optimizing data manipulation** through ORM Eloquent.
+
+I've just graduated in Boolean's intensive **Full-Stack Web Development Master**, where I had the chance to grasp wisdom and method to create clean, functional code. Over six months of hands-on learning, in which I built modern web applications with technologies widely used across the industry.
+
+- **Languages:** JavaScript (ES6+) | PHP (8+)
+- **Back-end:** ⚡ Node.js & Express | Laravel 13
 - **Front-end:** 🏗️ HTML5 & CSS3 Architecture | ⚛️ React & Vite | Responsive Layouts & Component-Based Design
-- **Back-end:** ⚡ Node.js & Express | Laravel
 - **Database:** 🗄️ MySQL & Relational Databases
 - **& More:** Anthropic API Integration in Chat Widgets | AI Agents
 
